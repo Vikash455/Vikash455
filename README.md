@@ -8,5 +8,6 @@ I am doing B.Tech in Information Technology from BIT, Mesra. I started to code i
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vikashoraon455@gmail.com](mailto:vikashoraon455@gmail.com)
+* ✉️  You can contact me at https://www.linkedin.com/in/vikash-oraon-805478264/
 * 🧠  I'm learning DATA STRUCTURES.
 * ⚡  Likes to play, listen music and many more.
